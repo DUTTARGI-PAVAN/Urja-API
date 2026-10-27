@@ -1,0 +1,44 @@
+{
+  "meter_id": "J100395",
+  "serial_no": "AL42611",
+  "make": "Secure",
+  "phase_type": "single",
+  "install_status": "Installed",
+  "install_type": "CT Operated",
+  "build": "legacy",
+  "dt_code": "DT-036",
+  "hierarchy": {
+    "zone": {
+      "code": "Z-03",
+      "name": "Jaipur Zone 3"
+    },
+    "circle": {
+      "code": "C-06",
+      "name": "Circle 6"
+    },
+    "division": {
+      "code": "D-06",
+      "name": "Division 6"
+    },
+    "subdivision": {
+      "code": "SD-08",
+      "name": "Subdivision 8"
+    },
+    "substation": {
+      "code": "SS-18",
+      "name": "Substation 18"
+    },
+    "feeder": {
+      "code": "F-008",
+      "name": "Feeder 8"
+    },
+    "dt": {
+      "code": "DT-036",
+      "name": "Jhotwara DT 36"
+    }
+  },
+  "location": {
+    "latitude": 26.988115068203864,
+    "longitude": 75.87841832903
+  }
+}
